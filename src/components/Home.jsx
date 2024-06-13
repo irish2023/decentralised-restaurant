@@ -1,6 +1,6 @@
 import React from 'react'
 import ima3 from '../assets/ima3.jpg'
-import Button from '../layouts/button'
+import Button from '../layouts/Button'
 
 const Home = () => {
   return (
