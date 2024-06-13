@@ -1,0 +1,16 @@
+extend: {
+    colors: {
+        brightcolor:'#F4511F',
+        backgroundcolor: '#b7bca9',
+        lightText: '#959595',
+    },
+},
+
+
+Elevate Your Foodie with Every Bite.
+
+Indulge in a symphony of a flavour, where each plate is a canvas for culinary excellence.
+
+FoodieWeb@email.com
++2347060974348
+Social media
