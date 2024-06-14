@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-scroll'
 import { BiChevronDown, BiRestaurant } from 'react-icons/bi'
-import Button from '../layouts/button'
+import Button from '../layouts/Button'
 import { AiOutlineClose, AiOutlineMenuUnfold } from 'react-icons/ai'
 
 const Navbar = () => {

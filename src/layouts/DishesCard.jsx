@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsStarFill, BsStarHalf } from 'react-icons/bs'
-import Button from './button'
+import Button from './Button'
 
 const DishesCard = (props) => {
     return (
